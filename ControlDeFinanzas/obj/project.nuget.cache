@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Tyo2WCWG5xTC2ePk73hJl/8REs5bx47DWOr+BrQHO50Leek5LN0rByqvLBc/XdUdFi2V+ZAE5bdtLK7L7l5znQ==",
+  "dgSpecHash": "haZvus35F+DKjitpDFLP6CQO4hWq7i6mWq9N3f6QrlsB+YymzHmuEtHi2VcV9gM7IghtnGWW5bQKnhzygAAbmg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\34682\\source\\repos\\ControlDeFinanzas\\ControlDeFinanzas\\ControlDeFinanzas.csproj",
+  "projectFilePath": "E:\\2ºDAW\\SERGIO\\repositorio\\ControlDeFinanzas\\ControlDeFinanzas\\ControlDeFinanzas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\34682\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\34682\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

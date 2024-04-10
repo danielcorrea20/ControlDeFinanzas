@@ -6259,11 +6259,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\34682\\source\\repos\\ControlDeFinanzas\\ControlDeFinanzas\\ControlDeFinanzas.csproj",
+      "projectUniqueName": "E:\\2ºDAW\\SERGIO\\repositorio\\ControlDeFinanzas\\ControlDeFinanzas\\ControlDeFinanzas.csproj",
       "projectName": "ControlDeFinanzas",
-      "projectPath": "C:\\Users\\34682\\source\\repos\\ControlDeFinanzas\\ControlDeFinanzas\\ControlDeFinanzas.csproj",
+      "projectPath": "E:\\2ºDAW\\SERGIO\\repositorio\\ControlDeFinanzas\\ControlDeFinanzas\\ControlDeFinanzas.csproj",
       "packagesPath": "C:\\Users\\34682\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\34682\\source\\repos\\ControlDeFinanzas\\ControlDeFinanzas\\obj\\",
+      "outputPath": "E:\\2ºDAW\\SERGIO\\repositorio\\ControlDeFinanzas\\ControlDeFinanzas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\34682\\AppData\\Roaming\\NuGet\\NuGet.Config",
